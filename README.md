@@ -33,5 +33,5 @@ Front-End
 
 
 
-Profile: wagnersoftwareengineer/wagnersoftwareengineer
-Linkedin: wagnersfelipe
+Profile: [wagnersoftwareengineer/wagnersoftwareengineer](https://github.com/wagnersoftwareengineer)
+Linkedin: [wagnersfelipe](https://www.linkedin.com/in/wagnersfelipe/)
